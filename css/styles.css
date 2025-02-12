@@ -26,7 +26,8 @@ line-height: 24px;
 letter-spacing: 0.02em;;
 color:#2E2F42
 }
-nav ul li a:hover:focus{
+nav ul li a:hover,
+nav ul li a:focus{
 color: #404bbf	
 }
 header nav ul li a{
@@ -43,7 +44,8 @@ font-style: normal
 .mail-b{
 	letter-spacing: 0.02em;
 }
-address ul li a:hover:focus{
+address ul li a:hover,
+address ul li a:focus{
 color: #404bbf	
 }
 header address ul li a{
@@ -77,7 +79,8 @@ color:#FFFFFF;
 background: #4D5AE5;
 cursor: pointer;
 }
-Button:hover:focus{
+Button:hover,
+Button:focus{
 background-color: #404BBF;
 }
 .section-iki{
