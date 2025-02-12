@@ -40,10 +40,10 @@ color:#2E2F42
 .adres-b{
 font-style: normal	
 }
-.mail-1{
+.mail-b{
 	letter-spacing: 0.02em;
 }
-.mail-1:hover:focus{
+.mail-b:hover:focus{
 color: #404bbf	
 }
 header address ul li a{
@@ -54,10 +54,10 @@ line-height: 24px;
 letter-spacing: 2%;
 color:#434455 
 }
-.section-1{
+.section-bir{
 background-color: #2E2F42;
 }
-.sec1Baslik-1{
+.secBirBaslik-bir{
 font-family: Roboto;
 font-weight: 700;
 font-size: 56px;
@@ -67,7 +67,7 @@ text-align: center;
 color:#FFFFFF;
 background-color: #2E2F42;
 }
-.sec1Buton-1 {
+.secBirButon-bir{
 font-family: "Roboto",sans-serif;
 font-weight: 500;
 font-size: 16px;
@@ -77,13 +77,13 @@ color:#FFFFFF;
 background: #4D5AE5;
 cursor: pointer;
 }
-.sec1Buton-1:hover :focus{
+.secBirButon-bir:hover :focus{
 background-color: #404BBF;
 }
-.section-2{
+.section-iki{
 background-color:#FFFFFF;
 }
-.section-2 ul li h3{
+.section-iki ul li h3{
 font-family: Roboto;
 font-weight: 500;
 font-size: 20px;
@@ -91,7 +91,7 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
-.section-2 li p{
+.section-iki li p{
 font-family: Roboto;
 font-weight: 400;
 font-size: 16px;
@@ -99,10 +99,10 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.section-3{
+.section-uc{
 background-color: #F4F4FD;
 }
-.sec3Baslik-2{
+.secUcBaslik-iki{
 font-family: Roboto;
 font-weight: 700;
 font-size: 36px;
@@ -112,13 +112,13 @@ text-transform: capitalize;
 text-align: center;
 color: #2E2F42;
 }
-.section-3 ul{
+.section-uc ul{
 background-color: #FFFFFF;
 }
-.sec3Liste-1{
+.secUcListe-bir{
 background-color: #FFFFFF;
 }
-.section-3 ul li h3{
+.section-uc ul li h3{
 font-family: "Roboto",sans-serif;
 font-weight: 500;
 font-size: 20px;
@@ -127,10 +127,10 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
 }
-.sec3Baslik-3{
+.secUcBaslik-uc{
 font-size: 16px;;
 }
-.section-3 ul li p{
+.section-uc ul li p{
 font-family: "Roboto",sans-serif;
 font-weight: 400;
 font-size: 16px;
@@ -139,10 +139,10 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
-.section-4{
+.section-dort{
 background-color: #FFFFFF;
 }
-.section-4 h2{
+.section-dort h2{
 font-family: Roboto;
 font-weight: 700;
 font-size: 36px;
@@ -152,7 +152,7 @@ text-align: center;
 color: #2E2F42;
 text-transform: capitalize;
 }
-.section-4 ul li h3{
+.section-dort ul li h3{
 font-family: Roboto;
 font-weight: 500;
 font-size: 20px;
@@ -160,12 +160,12 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
-.section-4 ul li p{
+.section-dort ul li p{
 font-family: Roboto;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-letter-spacing: 2%;
+letter-spacing: 0.02em;
 color: #434455;
 }
 footer{
@@ -179,10 +179,10 @@ line-height: 21px;
 letter-spacing: 3%;
 color:#4D5AE5	
 }
-.span-2{
+.span-iki{
 color: #F4F4FD
 }
-.footParag-1{
+.footParag-bir{
 font-family: "Roboto",sans-serif;
 font-weight: 400;
 font-size: 16px;
