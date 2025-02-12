@@ -26,7 +26,7 @@ line-height: 24px;
 letter-spacing: 0.02em;;
 color:#2E2F42
 }
-.studio-b:hover :focus{
+nav ul li a:hover:focus{
 color: #404bbf	
 }
 header nav ul li a{
@@ -43,7 +43,7 @@ font-style: normal
 .mail-b{
 	letter-spacing: 0.02em;
 }
-.mail-b:hover:focus{
+address ul li a:hover:focus{
 color: #404bbf	
 }
 header address ul li a{
@@ -57,7 +57,7 @@ color:#434455
 .section-bir{
 background-color: #2E2F42;
 }
-.secBirBaslik-bir{
+.baslik-bir{
 font-family: Roboto;
 font-weight: 700;
 font-size: 56px;
@@ -67,7 +67,7 @@ text-align: center;
 color:#FFFFFF;
 background-color: #2E2F42;
 }
-.secBirButon-bir{
+.buton-bir{
 font-family: "Roboto",sans-serif;
 font-weight: 500;
 font-size: 16px;
@@ -77,7 +77,7 @@ color:#FFFFFF;
 background: #4D5AE5;
 cursor: pointer;
 }
-.secBirButon-bir:hover :focus{
+Button:hover:focus{
 background-color: #404BBF;
 }
 .section-iki{
@@ -102,7 +102,7 @@ color: #434455;
 .section-uc{
 background-color: #F4F4FD;
 }
-.secUcBaslik-iki{
+.baslik-iki{
 font-family: Roboto;
 font-weight: 700;
 font-size: 36px;
@@ -115,7 +115,7 @@ color: #2E2F42;
 .section-uc ul{
 background-color: #FFFFFF;
 }
-.secUcListe-bir{
+.list-uc{
 background-color: #FFFFFF;
 }
 .section-uc ul li h3{
@@ -127,7 +127,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
 }
-.secUcBaslik-uc{
+.baslik-uc{
 font-size: 16px;;
 }
 .section-uc ul li p{
@@ -182,7 +182,7 @@ color:#4D5AE5
 .span-iki{
 color: #F4F4FD
 }
-.footParag-bir{
+.parag-f{
 font-family: "Roboto",sans-serif;
 font-weight: 400;
 font-size: 16px;
