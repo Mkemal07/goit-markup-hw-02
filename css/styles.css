@@ -6,7 +6,7 @@ background-color: #FFFFFF;
 header{
 background-color: #FFFFFF;
 }
-.logo-1{
+.logo-b{
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
@@ -15,10 +15,10 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4D5AE5
 }
-.span-1{
+.span-b{
 color: #2e2f42
 }
-.studio-1{
+.studio-b{
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
@@ -26,7 +26,7 @@ line-height: 24px;
 letter-spacing: 0.02em;;
 color:#2E2F42
 }
-.studio-1:hover :focus{
+.studio-b:hover :focus{
 color: #404bbf	
 }
 header nav ul li a{
@@ -37,7 +37,7 @@ line-height: 24px;
 letter-spacing: 0.02em;;
 color:#2E2F42
 }
-.adres-1{
+.adres-b{
 font-style: normal	
 }
 .mail-1{
@@ -187,6 +187,6 @@ font-family: "Roboto",sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-letter-spacing: 0.02;
+letter-spacing: 0.02em;
 color:#F4F4FD
 }
